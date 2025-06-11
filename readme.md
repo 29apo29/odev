@@ -1,3 +1,13 @@
+## 👥 Geliştiriciler
+
+Bu proje aşağıdaki geliştiricilerin katkılarıyla oluşturulmuştur:
+
+- [İsmail Yılmaz](https://github.com/ismailyilmazz)
+- [Muhammet Emir Aydın](https://github.com/MuhammetEmirAYDIN)
+- [Emir Duha](https://github.com/EmirDuha)
+- [Efe Aydın](https://github.com/efead35)
+- [Abdullah Ergen](https://github.com/29apo29)
+
 # Proje Kurulum Kılavuzu
 
 Bu proje için sanal ortam kurulumu ve gerekli paketlerin yüklenmesi adım adım aşağıda açıklanmıştır.
