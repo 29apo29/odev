@@ -6,7 +6,7 @@ Bu proje aşağıdaki geliştiricilerin katkılarıyla oluşturulmuştur:
 - [Muhammet Emir Aydın](https://github.com/MuhammetEmirAYDIN)
 - [Emir Duha](https://github.com/EmirDuha)
 - [Efe Aydın](https://github.com/efead35)
-- [Abdullah Ergen](https://github.com/29apo29)
+- [Abdullah Ergen](https://github.com/aergen29)
 
 # Proje Kurulum Kılavuzu
 
